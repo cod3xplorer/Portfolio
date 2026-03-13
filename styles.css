@@ -353,14 +353,14 @@ section.Portfolio p{
      transition: background-position-y 3s;
 }
 .portfolio-container .projeto2{
-     background-image: url(/images/Portfolio/CustoFolha.png); 
+     background-image: url(images/Portfolio/CustoFolha.png); 
      transition: background-position-y 10s;
 }
 .portfolio-container .projeto3{
-     background-image: url(../images/portfolio3.jpg); 
+     background-image: url(images/portfolio3.jpg); 
 }   
 .portfolio-container .projeto4{
-     background-image: url(../images/portfolio4.jpg);
+     background-image: url(images/portfolio4.jpg);
 }
 
 /*.img-port{
