@@ -5,36 +5,47 @@ O objetivo é fornecer uma visão clara, estratégica e visual para apoio à tom
 🎯 Principais Funcionalidades
 
 📈 Comparação entre Orçado vs Realizado
+
 💰 Indicadores principais:
+    
     Orçado total
     Realizado total
     Saldo (diferença)
     Performance (%)
 
 📊 Análise mensal (tendência ao longo do ano)
+
 🏢 Quebra por Diretoria
+
 📦 Análise detalhada por Pacotes de custo
+
 📉 Evolução acumulada (YTD)
+
 🧾 Tabela com:
-    Orçado
+
+Orçado
+    
     Realizado
     % de realização
 
 🎛️ Filtros dinâmicos por:
+    
     Ano
     Mês
 
 🧠 Insights Possíveis
-Identificação de áreas com estouro de orçamento
-Avaliação de performance financeira por diretoria
-Monitoramento de tendências ao longo do tempo
-Apoio em decisões de ajuste de custos
-Análise granular por tipo de despesa
 
-🛠️ Tecnologias Utilizadas
-Power BI Desktop
-Modelagem de Dados
-DAX (Data Analysis Expressions)
-Visualização de Dados
+    Identificação de áreas com estouro de orçamento
+    Avaliação de performance financeira por diretoria
+    Monitoramento de tendências ao longo do tempo
+    Apoio em decisões de ajuste de custos
+    Análise granular por tipo de despesa
+
+🛠️ Tecnologias Utilizadas:
+
+    Power BI Desktop
+    Modelagem de Dados
+    DAX (Data Analysis Expressions)
+    Visualização de Dados
 
 
