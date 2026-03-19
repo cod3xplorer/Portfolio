@@ -142,3 +142,8 @@ Modelagem de dados
 Storytelling com dados
 
 Visual Analytics
+
+## 📥 Download do Projeto
+
+🔗 Baixar arquivo PBIX:
+https://drive.google.com/file/d/1x1eokzLDlVYWlcPd31gSILZs-GFM3DVs/view?usp=sharing
