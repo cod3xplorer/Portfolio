@@ -2,6 +2,10 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI com foco
 
 O objetivo é fornecer uma visão clara, estratégica e visual para apoio à tomada de decisão financeira.
 
+## 📥 Download do Projeto
+
+🔗 Baixar arquivo PBIX: https://drive.google.com/file/d/1wshWnalPkHJrng4m4B2Cik23cim5vfVQ/view?usp=drive_link
+
 🎯 Principais Funcionalidades
 
 📈 Comparação entre Orçado vs Realizado
