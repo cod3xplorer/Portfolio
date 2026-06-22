@@ -1,3 +1,5 @@
+🔗 Baixar arquivo PBIX: https://drive.google.com/file/d/1x1eokzLDlVYWlcPd31gSILZs-GFM3DVs/view?usp=sharing
+
 Este projeto em Power BI apresenta uma solução completa de análise comercial, com foco em:
 
 📈 Atingimento de metas
